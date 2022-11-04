@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,true
-date,Date,true
+date,Date
 description,Description
 publisher,Publisher,true
 sender,Sender,true
@@ -10,4 +10,4 @@ format-i,Object Type,true
 format-ii,Dimensions
 format-iii,Number of Pages
 format-iv,File Format,true
-rights,Rights,true
+rights,Rights
