@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,Title,true
+creator,Creator,true
+date,Date,true
+description,Description,true
+publisher,Publisher,true
+sender,Sender,true
+receiver,Receiver,true
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+format-i,Object Type,true
+format-ii,Dimensions
+format-iii,Number of Pages
+format-iv,File Format
+rights,Rights,true,true
