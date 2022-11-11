@@ -3,3 +3,6 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+publisher,Publisher,true,,Publisher
+sender,Sender,true,,Sender
+receiver,Receiver,true,,Receiver
