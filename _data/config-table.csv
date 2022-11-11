@@ -3,3 +3,10 @@ title,Title
 date,Date
 description,Description
 subject,Subjects
+publisher,Publisher
+sender,Sender
+receiver,Receiver
+format,Digital Format
+format-i,Physical Format
+format-ii,Dimensions
+format-iii,Number of Pages
