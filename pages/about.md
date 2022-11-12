@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/featured_image.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;" %}
+{% include feature/nav-menu.html sections="About the Collection;People" %}
 
 ## About the Collection
 
@@ -23,3 +23,10 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
+## People 
+
+Casey Machenheimer is an MLS student at Indiana University Bloomington. She created this site as a part of her MLS program. She is specializing in Rare Books and Manuscripts, and she is passionate about increasing public interest in special collections through access and advocacy. She also has a BA in English from Ohio University. 
+
+Special thanks go to Harry Machenheimer for graciously allowing the creator to digitize this collection; thanks to Jane and Mike Machenheimer for facilitating the use of this collection and identifying some individuals in photographs; thanks to John Walsh and Alex Wingate for teaching the Digital Libraries course and assisting with many technical questions; and, thanks to Dr. Nazareth Pantaloni III for assisting with copyright inquiries. 
+
+This site is also created in memory of Suzanne Stratman Machenheimer. 
