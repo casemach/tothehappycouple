@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 This site is a collection of digitized materials from the bridal shower and wedding scrapbook of Suzanne Stratman Machenheimer and Harry Machenheimer. The materials consist of photographs from the bridal shower; cards given or sent to the couple for their bridal shower and wedding; an invitation to the bridal shower; monogrammed napkins from their bridal shower and wedding; newspaper clippings announcing their engagement and wedding; a letter from a priest; and, church bulletins announcing their wedding to the congregation. The majority of the materials belong to Harry Machenheimer. The cards were produced by various greeting card companies, but they have entered the public domain. Users of the site are free to use these materials for personal or educational use. 
