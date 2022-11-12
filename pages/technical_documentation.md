@@ -24,12 +24,12 @@ The metadata for this project is important for creating site functionality and a
 
 Listed below are Dublin Core elements and their use in the metadata scheme for this collection.  
 
-# Title - required, 1 value allowed 
+#Title - required, 1 value allowed 
 Titles are the name assigned to each object. The names are assigned by the creator of digital collection. The title should describe the object, such as people or place in the photograph, or senders and recipients of a card. 
 
 Examples: Card from Alberta Stall to the Machenheimers, 1961; Elizabeth Stratman at bridal shower, 1961
 
-# Date - required, 1 value allowed 
+#Date - required, 1 value allowed 
 The date when the object is from. All objects are from the year 1961. The bridal shower took place on September 24, 1961 and the wedding took place on November 4, 1961. Unless it is explicitly stated on the object, only the year is written as the date since it is known. Dates are formatted based on the [W3c date format](https://www.w3.org/TR/NOTE-datetime): 
 * YYYY 
 * YYYY-MM
@@ -37,7 +37,7 @@ The date when the object is from. All objects are from the year 1961. The bridal
 
 Example: 1961-09-24 to denote September 24, 1961
 
-# Description - required, 1 value allowed 
+#Description - required, 1 value allowed 
 The description is used to describe the object, including the physical description, the date, and who/where/what is depicted. Description is determined by the object itself. If it is a photograph, the description is of where, when, and who is depicted. If it is a card, the description is of the cover of the card, the sender(s), and the receiver(s) of card. For any other objects, a general description of physical attributes or other pertinent information is provided. 
 
 Example: This object is a card sent to Harry Machenheimer and Suzanne Stratman from Ruth Geglein for their bridal shower on September 24, 1961. The front of the card states, “For Your Bridal Shower” and depicts two silver bells decorated with silver ribbon, silver laurel, pink roses, and green leaves. 
