@@ -4,14 +4,14 @@ layout: about
 permalink: /tech.html
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="Items Chosen;Imaging Standards;Metadata Standards" %}
+{% include feature/jumbotron.html objectid="/assets/img/featured_image.jpg" %}
 
 ## Technical Documentation
 
-# Items Chosen 
+{% include feature/nav-menu.html sections="Items Chosen;Imaging Standards;Metadata Standards" %}
 
-# Imaging Standards 
+## Items Chosen 
 
-# Metadata Standards 
+## Imaging Standards 
+
+## Metadata Standards 
