@@ -56,9 +56,9 @@ Examples:
 
 ### _Publisher - required if present, 1 value allowed_
 
-The publisher is the company or institution responsible for the creation of the design and text of the greeting card. Publishers are listed on the back cover of the cards at the bottom. For the metadata, the full name of the publisher of the card is listed (even if in public domain).
+The publisher is the company or institution responsible for the creation of the design and text of the greeting cards in this collection. It is also used to identify the publishers for some of the newspaper clippings and the church bulletins. For the cards, publishers are listed on the back cover of the cards at the bottom. For the metadata, the full name of the publisher is listed (even if in public domain).
 
-Example: American Greeings Corp
+Example: American Greeings Corp; The Cincinnati Post and Times Star; St. Stephen's Parish 
 
 ### _Contributor - required if present, multiple values allowed_ 
 
