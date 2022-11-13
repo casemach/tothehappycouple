@@ -30,7 +30,7 @@ Titles are the name assigned to each object. The names are assigned by the creat
 
 Examples: Card from Alberta Stall to the Machenheimers, 1961; Elizabeth Stratman at bridal shower, 1961
 
-**Date - required, 1 value allowed 
+### Date - required, 1 value allowed 
 
 The date when the object is from. All objects are from the year 1961. The bridal shower took place on September 24, 1961 and the wedding took place on November 4, 1961. Unless it is explicitly stated on the object, only the year is written as the date since it is known. Dates are formatted based on the [W3c date format](https://www.w3.org/TR/NOTE-datetime): 
 * YYYY 
