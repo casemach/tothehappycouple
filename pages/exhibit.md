@@ -28,7 +28,7 @@ Harry and Sue have four children (Mike, Danny, Ann, and Jerry)[^3] and nine gran
 
 {% include feature/image.html objectid="assets/img/familyphoto.jpg" width="50" caption="Image of Harry and Sue with their grandchildren, 2006" %} 
 
-Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, at the age of 73. She was “multi-talented, she played the piano, violin, a great singer and ‘yodeler’, she was artistic, and was an expert at crossword puzzles.”[^5]
+Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, at the age of 73. She was “multi-talented, she played the piano, violin, a great singer and ‘yodeler’, she was artistic, and was an expert at crossword puzzles.”
 
 {% include feature/image.html objectid="assets/img/couplephoto.jpg" width="50" caption="Image of Harry and Sue on their wedding day, November 4, 1961" %}
 
@@ -41,5 +41,3 @@ Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, 
 [^3]: Son Born. (1963, June 27). The Cincinnati Post and Times Star, 19. 
 
 [^4]: “Elizabeth "Betty" Stratman | 1917 - 2011 | Obituary.” (1 June 2011). Geo. H. Rohde and Son Funeral Home. https://www.rohdefuneral.com/obituary/1178946 
-
-[^5]: “Suzanne Machenheimer Obituary.” (24 April 2012). Legacy. https://www.legacy.com/us/obituaries/cincinnati/name/suzanne-machenheimer-obituary?id=23968394 
