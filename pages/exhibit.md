@@ -14,13 +14,13 @@ Harry Machenheimer was born to parents George and Doris Machenheimer on March 14
 
 Suzanne (Sue) Machenheimer was born to parents William and Elizabeth Stratman on January 17, 1939, in Cincinnati, Ohio. She is the oldest of three children, the youngest two being Billy and Maribeth. She graduated from St. Mary High School, Hyde Park in Cincinnati in 1956. She went from seventh grade to ninth grade, skipping the eighth grade because it wasn’t challenging enough. She was the class salutatorian even though she was a year younger than her classmates. 
 
-[insert image of Suzanne Machenheimer, date unknown] 
+{% include feature/image.html objectid="photo_1961_09_24_009" %} 
 
 After graduating from high school, Sue began working at AT&T with Harry’s sister, Jo. Jo wanted to fix her up on a blind date with one of her brothers. She showed her pictures of Mick and Harry. Sue chose Mick, but he was already dating someone. So, she settled for Harry. 
 
 Harry and Sue married on November 4, 1961, at St. Stephen’s Parish in Cincinnati, Ohio. 
 
-[insert image of "Wed Today” newspaper clipping] 
+{% include feature/image.html objectid="newspaper_clipping_1961_11_04_001" %} 
 
 Harry worked at City Hall as Personnel Director for 33 years. 
 
