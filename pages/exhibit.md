@@ -16,18 +16,31 @@ Suzanne (Sue) Machenheimer was born to parents William and Elizabeth Stratman on
 
 {% include feature/image.html objectid="photo_1961_09_24_009" %} 
 
-After graduating from high school, Sue began working at AT&T with Harry’s sister, Jo. Jo wanted to fix her up on a blind date with one of her brothers. She showed her pictures of Mick and Harry. Sue chose Mick, but he was already dating someone. So, she settled for Harry. 
+After graduating from high school, Sue began working at AT&T with Harry’s sister, Jo. Jo wanted to fix her up on a blind date with one of her brothers. She showed her pictures of Mick and Harry. Sue chose Mick, but he was already dating someone. So, she settled for Harry.[^1] 
 
-Harry and Sue married on November 4, 1961, at St. Stephen’s Parish in Cincinnati, Ohio. 
+Harry and Sue married on November 4, 1961, at St. Stephen’s Parish in Cincinnati, Ohio.[^2]
 
 {% include feature/image.html objectid="assets/img/newspaper_clipping_1961_11_04_001.jpg" width="50" caption="Wed Today, 1961" %} 
 
 Harry worked at City Hall as Personnel Director for 33 years. 
 
-Harry and Sue have four children (Mike, Danny, Ann, and Jerry) and nine grandchildren (Claire, Ellen, Casey, Hannah, Frankie, Charlie, Meghan, Sam, and George). 
+Harry and Sue have four children (Mike, Danny, Ann, and Jerry)[^3] and nine grandchildren (Claire, Ellen, Casey, Hannah, Frankie, Charlie, Meghan, Sam, and George).[^4] 
 
 {% include feature/image.html objectid="assets/img/familyphoto.jpg" width="50" caption="Image of Harry and Sue with their grandchildren, 2006" %} 
 
-Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, at the age of 73. She was “multi-talented, she played the piano, violin, a great singer and ‘yodeler’, she was artistic, and was an expert at crossword puzzles.” 
+Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, at the age of 73. She was “multi-talented, she played the piano, violin, a great singer and ‘yodeler’, she was artistic, and was an expert at crossword puzzles.”[^5]
 
 {% include feature/image.html objectid="assets/img/couplephoto.jpg" width="50" caption="Image of Harry and Sue on their wedding day, November 4, 1961" %}
+
+## Sources 
+
+[^1]: M. Machenheimer (personal communication, November 15, 2022) 
+
+[^2]: “To Marry in November.” (1961, August 16). The Cincinnati Post and Times Star, 18.   
+
+[^3]: Son Born. (1963, June 27). The Cincinnati Post and Times Star, 19. 
+
+[^4]: “Elizabeth "Betty" Stratman | 1917 - 2011 | Obituary.” (1 June 2011). Geo. H. Rohde and Son Funeral Home. https://www.rohdefuneral.com/obituary/1178946 
+
+[^5]: “Suzanne Machenheimer Obituary.” (24 April 2012). Legacy. https://www.legacy.com/us/obituaries/cincinnati/name/suzanne-machenheimer-obituary?id=23968394 
+
