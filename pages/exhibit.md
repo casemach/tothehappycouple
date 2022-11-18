@@ -41,3 +41,4 @@ Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, 
 [^3]: Son Born. (1963, June 27). The Cincinnati Post and Times Star, 19. 
 
 [^4]: “Elizabeth "Betty" Stratman | 1917 - 2011 | Obituary.” (1 June 2011). Geo. H. Rohde and Son Funeral Home. https://www.rohdefuneral.com/obituary/1178946 
+
