@@ -20,7 +20,7 @@ After graduating from high school, Sue began working at AT&T with Harry’s sist
 
 Harry and Sue married on November 4, 1961, at St. Stephen’s Parish in Cincinnati, Ohio. 
 
-{% include feature/image.html objectid="assets/img/newspaper_clipping_1961_11_04_001" width="50" caption="Wed Today, 1961" %} 
+{% include feature/image.html objectid="assets/img/newspaper_clipping_1961_11_04_001.jpg" width="50" caption="Wed Today, 1961" %} 
 
 Harry worked at City Hall as Personnel Director for 33 years. 
 
