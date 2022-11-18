@@ -24,7 +24,8 @@ Harry and Sue married on November 4, 1961, at St. Stephen’s Parish in Cincinna
 
 Harry worked at City Hall as Personnel Director for 33 years. 
 
-Harry and Sue have four children (Mike, Danny, Ann, and Jerry)[^3] and nine grandchildren (Claire, Ellen, Casey, Hannah, Frankie, Charlie, Meghan, Sam, and George).[^4] 
+Harry and Sue have four children (Mike, Danny, Ann, and Jerry)[^3] and nine grandchildren (Claire, Ellen, Casey, Hannah, Frankie, Charlie, Meghan, Sam, and 
+George).[^4] 
 
 {% include feature/image.html objectid="assets/img/familyphoto.jpg" width="50" caption="Image of Harry and Sue with their grandchildren, 2006" %} 
 
