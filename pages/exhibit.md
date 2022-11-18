@@ -40,4 +40,4 @@ Harry and Sue had been married for 51 years. Sue passed away on April 21, 2012, 
 
 [^3]: Son Born. (1963, June 27). The Cincinnati Post and Times Star, 19. 
 
-[^4] “Suzanne Machenheimer Obituary.” (24 April 2012). Legacy. https://www.legacy.com/us/obituaries/cincinnati/name/suzanne-machenheimer-obituary?id=23968394 
+[^4]: “Suzanne Machenheimer Obituary.” (24 April 2012). Legacy. https://www.legacy.com/us/obituaries/cincinnati/name/suzanne-machenheimer-obituary?id=23968394 
